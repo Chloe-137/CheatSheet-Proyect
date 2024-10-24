@@ -1,0 +1,28 @@
+.pagetitle {
+    font-family: 'Croissant One', Merriweather, serif;
+    text-align: center;
+    font-size: 50px;
+    padding: 100px;
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-oscuro-ilustracion_181624-11581.jpg?t=st=1729798249~exp=1729801849~hmac=26a0720a2604cb43002187b1a4bec9add5d29d41314c75ab40cb495dbd36f68c&w=1380);
+    background-position: center;
+    color: antiquewhite;
+}
+
+table {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-weight: 500;
+    background-color: lightgray;
+    border: 3px, solid, lightgray;
+    padding: 15px;
+}   
+
+td, 
+th {
+    border: 10px, solid, rgb(120, 120, 120);
+    padding: 20px;
+    margin: 50px;
+    background-color: whitesmoke;
+}
+
+
